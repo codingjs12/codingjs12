@@ -53,9 +53,9 @@
 
 |출시|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
-|<sub>2025.03~</sub> | **🧚 모아요정 V2** | 핫딜 스캔 & 검색 디스코드 봇 | [📎](https://github.com/kuuujin/MoaV2) &nbsp;  |
-|<sub>2024.09~2024.12</sub> | **🎳 보으링** | Explosion 볼링동호회 전용 플러터 앱 | [📎](https://github.com/kuuujin/explosion) &nbsp; |
-|<sub>2024.03~2024.06</sub> | **🧚 모아요정** | 핫딜 스캔 & 검색 프로그램 | [📎](https://github.com/kuuujin/Moafairy) &nbsp; |
+|<sub>2025.03~</sub> | **💰다해드림** | 누구나 해결사가 될 수 있는 플랫폼 | [📎](https://github.com/kwonyul0812/dahaedream) &nbsp;  |
+|<sub>2025.04~2025.05</sub> | **Kapture** | 외국인을 위한 여행상품 쇼핑몰 | [📎](https://github.com/Taehun92/Project_Kapture) &nbsp; |
+|<sub>2024.03~2024.06</sub> | **그린다62** | 다육이 판매 쇼핑몰 | [📎](https://github.com/kimjin8748/greeda62Project) &nbsp; |
 
 
 </div>
