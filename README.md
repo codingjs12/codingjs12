@@ -24,6 +24,7 @@
   <h3>DBMS💾</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HeidiSQL-00F800?style=for-the-badge&logo=oracle&logoColor=white"/>
   <br>
   <h3>Tools🔨</h3>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/>
